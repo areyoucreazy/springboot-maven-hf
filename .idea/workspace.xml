@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06f7c939-8452-401c-a34a-9dec8fddc05e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/algorithm/src/com/algorithm/leet/YhSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jvm-actual/jvm-actual.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jvm-actual/src/com/hf/memory/Math.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jvm-actual/src/com/hf/memory/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/src/com/algorithm/leet/ReverseLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/com/algorithm/leet/ReverseLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/leet/ReverseLinkedList$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/leet/ReverseLinkedList$ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/leet/ReverseLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/algorithm/leet/ReverseLinkedList.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -42,7 +38,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="1164" />
-          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="PLAIN_TEXT" value="8" />
         </counts>
       </usages-collector>
     </session>
@@ -80,7 +76,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/algorithm/src/com/algorithm/leet/YhSolution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
+            <state relative-caret-position="847">
               <caret line="75" lean-forward="true" selection-start-line="75" selection-end-line="75" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -218,7 +214,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1607238547127" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1607238592505" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8 (1)" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
@@ -289,13 +285,20 @@
       <option name="presentableId" value="Default" />
       <updated>1604049350398</updated>
     </task>
+    <task id="LOCAL-00001" summary="杨辉三角练习">
+      <created>1607238579145</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607238579145</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26332623" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26332623" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -306,11 +309,11 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.3986637" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3986637" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.055679288" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.38084632" />
       <window_info anchor="bottom" id="Analysis" order="8" />
       <window_info anchor="bottom" id="DB Execution Console" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
@@ -330,6 +333,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="杨辉三角练习" />
+    <option name="LAST_COMMIT_MESSAGE" value="杨辉三角练习" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -397,7 +404,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/algorithm/src/com/algorithm/leet/YhSolution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
+        <state relative-caret-position="847">
           <caret line="75" lean-forward="true" selection-start-line="75" selection-end-line="75" />
           <folding>
             <element signature="imports" expanded="true" />
