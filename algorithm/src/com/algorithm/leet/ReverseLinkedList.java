@@ -83,6 +83,7 @@ public class ReverseLinkedList {
         int val;
         ListNode next;
         ListNode(int x) { val = x; }
+        ListNode(ListNode next, int x) { val = x; this.next = next;}
     }
 
     public static void main(String[] args) {
