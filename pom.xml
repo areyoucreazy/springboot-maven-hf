@@ -6,6 +6,7 @@
 	<modules>
 		<module>order-service</module>
 		<module>stock-service</module>
+		<module>design-pattern</module>
 	</modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
