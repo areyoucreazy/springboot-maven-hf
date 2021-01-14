@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06f7c939-8452-401c-a34a-9dec8fddc05e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/design-pattern/design-pattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-pattern/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jvm-actual/src/Hello.xlass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jvm-actual/src/com/hf/job01/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jvm-actual/src/com/hf/job01/HelloClassLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jvm-actual/src/com/hf/job01/HelloUrlClassLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jvm-actual/src/com/hf/job01/HelloUrlClassLoaderMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jvm-actual/src/com/hf/job01/JvmAppClassLoaderAddURL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jvm-actual/src/com/hf/job01/JvmClassLoaderPrintPath.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/src/com/algorithm/hf/YhSolutionHfzhang.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/com/algorithm/hf/YhSolutionHfzhang.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -62,7 +48,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="3412" />
-          <entry key="PLAIN_TEXT" value="20" />
+          <entry key="PLAIN_TEXT" value="28" />
         </counts>
       </usages-collector>
     </session>
@@ -262,7 +248,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1610519924741" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1610594298430" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8 (1)" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
@@ -410,11 +396,19 @@
       <option name="project" value="LOCAL" />
       <updated>1607240632483</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="作业练习1">
+      <created>1610525170338</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1610525170338</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.32995737" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -494,7 +488,8 @@
     <MESSAGE value="杨辉三角练习2" />
     <MESSAGE value="杨辉三角练习3" />
     <MESSAGE value="杨辉三角练习-自练习" />
-    <option name="LAST_COMMIT_MESSAGE" value="杨辉三角练习-自练习" />
+    <MESSAGE value="作业练习1" />
+    <option name="LAST_COMMIT_MESSAGE" value="作业练习1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
