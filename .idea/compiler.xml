@@ -7,12 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="design-pattern" />
+        <module name="jvm-actual" />
         <module name="order-service" />
         <module name="stock-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="design-pattern" target="1.8" />
+      <module name="jvm-actual" target="1.8" />
       <module name="order-service" target="1.8" />
       <module name="springboot-maven-hf" target="1.8" />
       <module name="stock-service" target="1.8" />
@@ -21,6 +23,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="design-pattern" options="-parameters" />
+      <module name="jvm-actual" options="-parameters" />
       <module name="order-service" options="-parameters" />
       <module name="springboot-maven-hf" options="-parameters" />
       <module name="stock-service" options="-parameters" />
